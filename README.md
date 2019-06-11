@@ -1,4 +1,4 @@
-# paper.therapidcoin.com
+# https://paper.rapidcore-coin.com/
 JavaScript Client-Side Rapid Wallet Generator
 
 Now Rapid addresses and their corresponding private key can be conveniently
